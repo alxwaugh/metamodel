@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6:1", "", "Cross-Functional Team", "EARoot/EA6/EA39.htm", "5.png", "E214", "0", "", "Class0","{900D1AF9-00BF-4bd2-AE7E-C9AEF15FCA90}");
+tocTab[tocTab.length] = new Array("0.6:2", "", "Organizational Unit", "EARoot/EA6/EA40.htm", "5.png", "E212", "0", "", "Class0","{54EEBBC9-226C-4acb-B9DC-3A5E76487FDA}");
+tocTab[tocTab.length] = new Array("0.6:3", "", "Person", "EARoot/EA6/EA41.htm", "5.png", "E219", "0", "", "Class0","{14609A34-2F1B-4673-97CD-CD4DED82FDE2}");

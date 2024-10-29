@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Application and Technology Landscape", "EARoot/EA1.htm", "175.png", "14", "0", "", "Logical diagram0","{434B02E4-83F4-4143-A6FD-4F363EE4A9DB}");
+tocTab[tocTab.length] = new Array("0:2", "", "Ardoq Metamodel v5", "EARoot/EA3.htm", "175.png", "13", "0", "", "Logical diagram0","{7C701BC7-3DFF-4169-BF93-4CFC185F4715}");
+tocTab[tocTab.length] = new Array("0:3", "", "Data Landscape", "EARoot/EA5.htm", "175.png", "12", "0", "", "Logical diagram0","{FF342738-6F14-4f4d-B24F-931E1D630858}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Applications", "EARoot/EA1/EA22.htm", "4.png", "", "", "{99B4AD2D-4367-4f85-9CCA-A80E722CA67C}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Business Capabilities", "EARoot/EA2/EA25.htm", "4.png", "", "", "{2B14A086-AE4B-44aa-9415-F2E89FC9D794}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Customers and Partners", "EARoot/EA3/EA27.htm", "4.png", "", "", "{C8DE61E7-9F75-463e-BB50-B3C44B58AF05}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Data Landscape", "EARoot/EA4/EA29.htm", "4.png", "", "", "{38E99921-7E80-4d1c-B3D5-5E63E3A3C85A}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Innovation and Change", "EARoot/EA5/EA35.htm", "4.png", "", "", "{73ED3F6B-4150-41b7-BB1A-5168392B3099}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "People and Organisation", "EARoot/EA6/EA38.htm", "4.png", "", "", "{CE4363AD-9F6F-4260-B2DD-AC6CC8B1DE42}", "Package");
+tocTab[tocTab.length] = new Array("0.7", "1", "Products and Services", "EARoot/EA7/EA42.htm", "4.png", "", "", "{B0225435-2D01-4943-896A-D0B5237FD785}", "Package");
+tocTab[tocTab.length] = new Array("0.8", "1", "Services", "EARoot/EA8/EA45.htm", "4.png", "", "", "{4A7A51A9-8FD4-4845-9F89-D45CEA33EBEA}", "Package");
+tocTab[tocTab.length] = new Array("0.9", "1", "Strategy and Objectives", "EARoot/EA9/EA49.htm", "4.png", "", "", "{A3303371-B997-4e73-AA92-A12BBBE120DE}", "Package");
+tocTab[tocTab.length] = new Array("0.10", "1", "Technical Capabilities", "EARoot/EA10/EA52.htm", "4.png", "", "", "{2F641B91-A5AA-470f-A0FE-EE22344E7CEC}", "Package");
+tocTab[tocTab.length] = new Array("0.11", "1", "Technology Catalogue", "EARoot/EA11/EA54.htm", "4.png", "", "", "{76BBA36E-571C-4494-8FED-2B8C8F798BBF}", "Package");
+tocTab[tocTab.length] = new Array("0.12", "1", "TRM", "EARoot/EA12/EA58.htm", "4.png", "", "", "{BF2A13DA-AF59-43cd-B0CD-F9923CA1BE16}", "Package");

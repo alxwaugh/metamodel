@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Data Landscape", "EARoot/EA1.htm", "175.png", "12", "0", "", "Logical diagram0","{FF342738-6F14-4f4d-B24F-931E1D630858}");
+tocTab[tocTab.length] = new Array("0.1", "1", "«Workspace» Data and Information Assets", "EARoot/EA1/EA10.htm", "4.png", "", "", "{08860359-F266-4d6d-B8DF-E5AED314A322}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "«Workspace» Data Contracts", "EARoot/EA2/EA12.htm", "4.png", "", "", "{8852A205-93E2-4f09-A3F8-BDF616D8FB49}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "«Workspace» Data Stores", "EARoot/EA3/EA14.htm", "4.png", "", "", "{A6303BAB-BA10-4bcf-894F-09BCDBC98281}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "«Workspace» Privacy Data", "EARoot/EA4/EA16.htm", "4.png", "", "", "{EB88F190-BB3D-4691-B6A6-D181FD28B0C7}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "«Workspace» Third Party Data", "EARoot/EA5/EA18.htm", "4.png", "", "", "{2FCDB730-F645-45cd-B3D8-5FB67833DB6A}", "Package");
